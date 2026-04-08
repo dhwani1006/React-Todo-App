@@ -32,7 +32,7 @@ React To-Do Application is a simple web app that fetches and displays to-do task
 
 ##  Screenshots
 
-###  To-Do App UI
+###  To-Do App
 
 ![React_Todos](./React_Todos.png)
 
